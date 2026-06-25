@@ -6,7 +6,7 @@ An AI-powered Standard Operating Procedure (SOP) generator built with **Groq + L
 
 ## 🚀 Live Demo
 
-👉 [Launch the app](https://mithalikp25-sop-generator-app.streamlit.app)
+👉 [Test the app](https://sop-generator-dwsa9vsi8rl5nvvu7p6cb2.streamlit.app/)
 
 ---
 
